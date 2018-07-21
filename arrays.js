@@ -28,7 +28,6 @@ var chocolateBars = [
   }
   
 function destructivelyRemoveElementFromBeginningOfArray (arr){
-  let arr = arr
   arr.shift()
   return arr
 }

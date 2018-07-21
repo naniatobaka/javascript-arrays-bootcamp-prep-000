@@ -13,7 +13,7 @@ var chocolateBars = [
   }
   
   function addElementToEndOfArray(arr, ele){
-    let myArray = [arr,...ele];
+    let myArray = [arr..., ele];
     return myArray;
   }
 

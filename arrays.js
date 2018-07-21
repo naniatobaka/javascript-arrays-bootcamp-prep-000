@@ -27,7 +27,9 @@ var chocolateBars = [
     return arr[ind]
   }
   
-  destructivelyRemove
-  
+function destructivelyRemoveElementFromBeginningOfArray (arr){
+  let newArr = arr.shift()
+  return newArr
+}
   
   

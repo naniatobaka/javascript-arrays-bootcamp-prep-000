@@ -44,7 +44,7 @@ function destructivelyRemoveElementFromEndOfArray (arr){
   
 function removeElementFromEndOfArray(arr){
   let newArr = arr(0, -1)
-  return arr
+  return newArr
 }  
   
   

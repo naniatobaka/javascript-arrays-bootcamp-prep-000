@@ -27,7 +27,7 @@ var chocolateBars = [
     return arr[ind]
   }
   
-  
+  destructivelyRemove
   
   
   

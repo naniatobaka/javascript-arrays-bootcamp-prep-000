@@ -32,8 +32,8 @@ function destructivelyRemoveElementFromBeginningOfArray (arr){
 }
   
 function removeElementFromBeginningOfArray (arr){
-  let arr = arr.slice(1)
-  return arr
+  let newArr = arr.slice(1)
+  return newArr
 }  
   
   
